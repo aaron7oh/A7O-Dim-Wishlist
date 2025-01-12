@@ -1,43 +1,121 @@
 title:Weapons to Chase
 description:Updated as off D2 Episode Revenant Act 3
 
+//Revenant
+
+//Exuviae
+//notes:PVE Arrowhead, Accurized, Rimestealer, Headstone (Reload)
+dimwishlist:item=2823644677&perks=1955165503,124408337
+dimwishlist:item=2823644677&perks=839105230,1955165503,124408337
+dimwishlist:item=2823644677&perks=3142289711,1955165503,124408337
+dimwishlist:item=2823644677&perks=839105230,3142289711,1955165503,124408337
+
+//Red Tape
+//notes:PVE Arrowhead, Accurized, Rimestealer, Explosive Payload (Reload)
+dimwishlist:item=3423493037&perks=1955165503,3038247973
+dimwishlist:item=3423493037&perks=839105230,1955165503,3038247973
+dimwishlist:item=3423493037&perks=3142289711,1955165503,3038247973
+dimwishlist:item=3423493037&perks=839105230,3142289711,1955165503,3038247973
+
+//Liturgy
+//notes:PVE Quick, Spike Grenades, Remistealer, Chill Clip (Reload)
+dimwishlist:item=2599338624&perks=1955165503,2978966579
+dimwishlist:item=2599338624&perks=3525010810,1955165503,2978966579
+dimwishlist:item=2599338624&perks=3301904089,1955165503,2978966579
+dimwishlist:item=2599338624&perks=3525010810,3301904089,1955165503,2978966579
+
 //Vantage Point
-//notes:Arrowhead, Accurized, Eddy Current, Jolting Feedback (Reload)
+//notes:PVE Arrowhead, Accurized, Eddy Current, Jolting Feedback (Reload)
 dimwishlist:item=3830941962&perks=684456054,3966416502
 dimwishlist:item=3830941962&perks=3142289711,684456054,3966416502
 dimwishlist:item=3830941962&perks=839105230,684456054,3966416502
 dimwishlist:item=3830941962&perks=839105230,3142289711,684456054,3966416502
 
 //Noxious Vetiver
-//notes:Arrowhead, Accurized, Loose Change, Jolting Feedback (Reload)
+//notes:PVE Arrowhead, Accurized, Loose Change, Jolting Feedback (Reload)
 dimwishlist:item=825495813&perks=1119449540,3966416502
 dimwishlist:item=825495813&perks=839105230,1119449540,3966416502
 dimwishlist:item=825495813&perks=88  3142289711,1119449540,3966416502
 dimwishlist:item=825495813&perks=839105230,3142289711,1119449540,3966416502
 
+//Insurmountable
+//notes:PVE Arrowhead, Accurized, Repulsor Brace, Destabilizing Rounds (Reload)
+dimwishlist:item=414045521&perks=776531651,2048641572
+dimwishlist:item=414045521&perks=839105230,776531651,2048641572
+dimwishlist:item=414045521&perks=3142289711,776531651,2048641572
+dimwishlist:item=414045521&perks=839105230,3142289711,776531651,2048641572
+
+//Sovereignty
+//notes:PVE Arrowhead, Accurized, Explosive Payload, Withering Gaze (Reload)
+dimwishlist:item=3818198556&perks=3038247973,1134488199
+dimwishlist:item=3818198556&perks=839105230,3038247973,1134488199
+dimwishlist:item=3818198556&perks=3142289711,3038247973,1134488199
+dimwishlist:item=3818198556&perks=839105230,3142289711,3038247973,1134488199
+
 //Bittersweet
-//notes:Quick, Spike Grenades, Envious Arsenal, Bait and Switch (Velocity)
+//notes:PVE Quick, Spike Grenades, Envious Arsenal, Bait and Switch (Velocity)
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3525010810,3987942396,3078487919
 dimwishlist:item=2599338625&perks=3301904089,3987942396,3078487919
 dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919
 
+//Heretic's Ferver
+//notes:PVE Quick, Impact, Auto-Loading, Bipod (Handling)
+dimwishlist:item=4224667951&perks=3300816228,1439600632
+dimwishlist:item=4224667951&perks=3525010810,3300816228,1439600632
+dimwishlist:item=4224667951&perks=3796465595,3300816228,1439600632
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3300816228,1439600632
+
+
+//Reprised Splicer
+
+//Chroma Rush
+//notes:PVP Arrowhead, Accurized, Subsistence, Kinetic Tremors (Range)
+dimwishlist:item=2598420927&perks=1820235745,3891536761
+dimwishlist:item=2598420927&perks=839105230,1820235745,3891536761
+dimwishlist:item=2598420927&perks=3142289711,1820235745,3891536761
+dimwishlist:item=2598420927&perks=839105230,3142289711,1820235745,3891536761
+
+//Ignition Code
+//notes:PVE Volatile, Disorienting Grenades, Slideshot, Reverberation (Blast Radius)
+dimwishlist:item=2761869150&perks=3161816588,563069569
+dimwishlist:item=2761869150&perks=1478423395,3161816588,563069569
+dimwishlist:item=2761869150&perks=3032599245,3161816588,563069569
+dimwishlist:item=2761869150&perks=1478423395,3032599245,3161816588,563069569
+
+//Gridskipper
+//notes:PVE Arrowhead, Ricochet, Repulsor Brace, Destabilizing Rounds (Range)
+dimwishlist:item=3433930495&perks=776531651,4104185692
+dimwishlist:item=3433930495&perks=839105230,776531651,4104185692
+dimwishlist:item=3433930495&perks=1885400500,776531651,4104185692
+dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,4104185692
+
+//Sojourner's Tale
+//notes:PVE Arrowhead, Assault Mag, Heal Clip, Incandescent (Reload)
+dimwishlist:item=2130875369&perks=3017780555,4293542123
+dimwishlist:item=2130875369&perks=839105230,3017780555,4293542123
+dimwishlist:item=2130875369&perks=791862061,3017780555,4293542123
+dimwishlist:item=2130875369&perks=839105230,791862061,3017780555,4293542123
+
+
+//Vesper's Host
+
 //VS Pyroelectric Propellant
-//notes:Arrowhead, Ricochet, Attrition Orbs, Jolting Feedback (Range)
+//notes:PVE Arrowhead, Ricochet, Attrition Orbs, Jolting Feedback (Range)
 dimwishlist:item=4232480042&perks=243981275,3966416502
 dimwishlist:item=4232480042&perks=839105230,243981275,3966416502
 dimwishlist:item=4232480042&perks=2420895100,243981275,3966416502
 dimwishlist:item=4232480042&perks=839105230,2420895100,243981275,3966416502
 
 //VS Velocity Baton
-//notes:Quick, High-Velocity, Demolitionist, Attrition Orbs (Reload)
+//notes:PVE Quick, High-Velocity, Demolitionist, Attrition Orbs (Reload)
 dimwishlist:item=1762785663&perks=3523296417,243981275
 dimwishlist:item=1762785663&perks=3525010810,3523296417,243981275
 dimwishlist:item=1762785663&perks=2822142346,3523296417,243981275
 dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
 
 //VS Chill Inhibitor
-//notes:Quick, Spike Grenades, Envious Arsenal, Bait and Switch (Velocity)
+//notes:PVE Quick, Spike Grenades, Envious Arsenal, Bait and Switch (Velocity)
 dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3525010810,3987942396,3078487919
 dimwishlist:item=1762785662&perks=3301904089,3987942396,3078487919
