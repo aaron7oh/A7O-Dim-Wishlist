@@ -4,3 +4,6 @@ description:Updated as off D2 Episode Revenant Act 3
 // Vantage Point
 // notes: Arrowhead, Accurized, Eddy Current, Jolting Feedback (Reload)
 dimwishlist:item=3830941962&perks=684456054,3966416502
+dimwishlist:item=3830941962&perks=3142289711,684456054,3966416502
+dimwishlist:item=3830941962&perks=839105230,684456054,3966416502
+dimwishlist:item=3830941962&perks=839105230,3142289711,684456054,3966416502
