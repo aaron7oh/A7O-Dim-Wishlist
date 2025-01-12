@@ -2,14 +2,43 @@ title:Weapons to Chase
 description:Updated as off D2 Episode Revenant Act 3
 
 //Vantage Point
-//notes: Arrowhead, Accurized, Eddy Current, Jolting Feedback (Reload)
+//notes:Arrowhead, Accurized, Eddy Current, Jolting Feedback (Reload)
 dimwishlist:item=3830941962&perks=684456054,3966416502
 dimwishlist:item=3830941962&perks=3142289711,684456054,3966416502
 dimwishlist:item=3830941962&perks=839105230,684456054,3966416502
 dimwishlist:item=3830941962&perks=839105230,3142289711,684456054,3966416502
 
+//Noxious Vetiver
+//notes:Arrowhead, Accurized, Loose Change, Jolting Feedback (Reload)
+dimwishlist:item=825495813&perks=1119449540,3966416502
+dimwishlist:item=825495813&perks=839105230,1119449540,3966416502
+dimwishlist:item=825495813&perks=88  3142289711,1119449540,3966416502
+dimwishlist:item=825495813&perks=839105230,3142289711,1119449540,3966416502
 
-//test
-//notes: this is a test
-dimwishlist:item=2026087437&perks=3300816228,2978966579
-dimwishlist:item=2026087437&perks=3798852852,3032599245,3300816228,2978966579
+//Bittersweet
+//notes:Quick, Spike Grenades, Envious Arsenal, Bait and Switch (Velocity)
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3525010810,3987942396,3078487919
+dimwishlist:item=2599338625&perks=3301904089,3987942396,3078487919
+dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919
+
+//VS Pyroelectric Propellant
+//notes:Arrowhead, Ricochet, Attrition Orbs, Jolting Feedback (Range)
+dimwishlist:item=4232480042&perks=243981275,3966416502
+dimwishlist:item=4232480042&perks=839105230,243981275,3966416502
+dimwishlist:item=4232480042&perks=2420895100,243981275,3966416502
+dimwishlist:item=4232480042&perks=839105230,2420895100,243981275,3966416502
+
+//VS Velocity Baton
+//notes:Quick, High-Velocity, Demolitionist, Attrition Orbs (Reload)
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=3525010810,3523296417,243981275
+dimwishlist:item=1762785663&perks=2822142346,3523296417,243981275
+dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
+
+//VS Chill Inhibitor
+//notes:Quick, Spike Grenades, Envious Arsenal, Bait and Switch (Velocity)
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3301904089,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919
