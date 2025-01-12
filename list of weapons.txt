@@ -1,8 +1,8 @@
 title:Weapons to Chase
 description:Updated as off D2 Episode Revenant Act 3
 
-// Vantage Point
-// notes: Arrowhead, Accurized, Eddy Current, Jolting Feedback (Reload)
+//Vantage Point
+//notes: Arrowhead, Accurized, Eddy Current, Jolting Feedback (Reload)
 dimwishlist:item=3830941962&perks=684456054,3966416502
 dimwishlist:item=3830941962&perks=3142289711,684456054,3966416502
 dimwishlist:item=3830941962&perks=839105230,684456054,3966416502
@@ -10,5 +10,5 @@ dimwishlist:item=3830941962&perks=839105230,3142289711,684456054,3966416502
 
 
 //test
-// notes: this is a test
+//notes: this is a test
 dimwishlist:item=2026087437&perks=3809316345,3032599245,3300816228,2978966579
