@@ -1,5 +1,5 @@
 title:Weapons to Chase
-description:Updated as off D2 Episode Revenant Act 3
+description:Updated as of D2 Episode Heresy Act 2
 
 //Heresy
 
